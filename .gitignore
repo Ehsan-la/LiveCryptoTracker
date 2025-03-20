@@ -1,0 +1,7 @@
+# Visual Studio spezifische Dateien ignorieren
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
